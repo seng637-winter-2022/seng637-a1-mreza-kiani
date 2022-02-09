@@ -42,6 +42,8 @@ All members must participate in the demo and the video should not be longer than
 
 Our exploratory testing plan for this system is to firstly, start by testing its main features. These features are namely Logging in, Withdrawal, Deposit, Cash Transfer and Balance Inquiry. We will test these features one by one to make sure they work as they should when the proper steps are followed. Afterwards, we will perform further testing by trying to "break" the system. To accomplish this, we will try inputting incorrect inputs at certain steps. For example, using the keys 5,6,7,8,9 or 0 on menus where an option for those keys isn't listed. 
 
+Any bugs that are found through this process will be listed on Backlog
+
 
 # Comparison of exploratory and manual functional testing
 
