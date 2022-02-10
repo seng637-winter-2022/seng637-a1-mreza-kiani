@@ -47,14 +47,14 @@ longer than 10 minutes.
 # High-level description of the exploratory testing plan
 
 Our plan’s first step was to understand what the application is and how it works. For this purpose, we read the system’s
-requirements and try to work a little with the system to get familiar with it. Then we found out that it's better to
+requirements and tried to work a little with the system to get familiar with it. Then we found out that it's better to
 firstly start by testing its main features. These features are namely Logging in, Withdrawal, Deposit, Cash Transfer and
 Balance Inquiry. We tested these features one by one extensively to make sure they work as they should when the proper 
 steps are followed. Afterwards, we performed further testing by trying to "break" the system. To accomplish this, we 
 tried inputting incorrect inputs at certain steps. For example, using the keys 5,6,7,8,9 or 0 on menus where an option 
 for those keys isn't listed, or entering big values as input.
 
-Any bugs that were found through this process, was listed on Backlog.
+Any bug that was found through this process, was listed on Backlog.
 
 # Comparison of exploratory and manual functional testing
 
@@ -90,8 +90,7 @@ We have done steps below for peer reviewing of defect reports:
   fixed any probable mistakes in reporting bugs.
 - After Mohammad Reza and Shahryar completed their work for 40 test cases, Muhammad has checked their work result to see
   if everything's okay.
-- During the regression test, after each person check if his reported bugs are fixed in the new version, he checked
-  other teammates reported bugs as well to double-check their work.
+- During the regression test, after each person checked if his reported bugs are fixed in the new version, he checked other teammates reported bugs as well to double-check their work.
 
 These are also some notes about the new version:
 
@@ -126,14 +125,14 @@ We used Discord as our communication platform. It supports both text messaging a
 
 # Comments/feedback on the lab and lab document itself
 
-The assigment has been clearly defined what is required to do and what we should do for the report and demo. It also has
+The assigment has clearly defined what is required to do and what we should do for the report and demo. It also has
 a good definition of testing concepts and contains useful resources and links for more information about testing.
 
 The work load of the assignment was reasonable as well, and we could manage to get it done in the expected time. We also
 became familiar with various types of manual testing.
 
 It seems that some parts of the assignment description were outdated, for instance it says that we should have a demo in
-the lab session while we don't have lab session in this semester, and we should just upload the demo video. Or it was
+the lab session while we don't have lab session in this semester, and we should just upload the demo video. Besides, it was
 mentioned that there is a separated appendix A and B, but we could only find some tables at the end of the instruction
 document. The TA answered our question quickly but nobody answered the forum. Because questions there were our questions
-too and if professor or TA had answered that, we didn't bother them by asking them again through email. 
+too and if the professor or TA had answered that, we wouldn't bother them by asking again through email. 
