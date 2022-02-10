@@ -122,7 +122,7 @@ Actually, we didn't face any major difficulties and almost everything went smoot
 virtual meetings on Discord or attend the class on Zoom it would be much better experience to communicate with other
 groupmates, TA, and the professor in-person. But I think we could manage virtual meetings by having regular meeting and
 responding message fast and on-time. 
-We used Zoom as our communication platform. It supports both text messaging and voice/video chat.
+We used Discord as our communication platform. It supports both text messaging and voice/video chat.
 
 # Comments/feedback on the lab and lab document itself
 
