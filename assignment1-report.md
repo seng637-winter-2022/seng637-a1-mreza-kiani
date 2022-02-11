@@ -41,8 +41,9 @@ much experience about writing plans for exploratory testing or performing tests 
 
 # Link of demo video
 
-Make a video of the demo and put its link here. All members must participate in the demo and the video should not be
-longer than 10 minutes.
+[Video Link](https://uofc-my.sharepoint.com/:v:/g/personal/mohammadreza_kianifa_ucalgary_ca/ESUgoUO_fQRAmkmeeJLR9ycBo0MkUVjQWt7HD0XPpc-VJA?e=TBVbOc)
+
+It works for everyone with logged-in university account on outlook. Please [tell us](mailto:mohammadreza.kianifa@ucalgary.ca) if you had any problem. 
 
 # High-level description of the exploratory testing plan
 
